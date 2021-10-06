@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  irssi:
+    build: .
+    container_name: autodl-irssi-sonarr
+    image: "xelementzx/autodl-irssi-sonarr:latest"
+    tty: true
