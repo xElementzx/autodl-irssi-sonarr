@@ -1,0 +1,1 @@
+autodl-irssi-sonarr
